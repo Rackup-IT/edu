@@ -19,7 +19,7 @@ export default function PrivacyPage() {
 
           <div className="prose prose-lg prose-neutral max-w-none text-neutral-600 leading-relaxed">
             <p>
-              At Rackup IT Solution, we take your privacy seriously. This
+              At Forte Harbor, we take your privacy seriously. This
               Privacy Policy explains how we collect, use, disclose, and
               safeguard your information when you visit our website.
             </p>
