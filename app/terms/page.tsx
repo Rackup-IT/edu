@@ -21,7 +21,7 @@ export default function TermsPage() {
             <p>
               These Terms of Service constitute a legally binding agreement made
               between you, whether personally or on behalf of an entity (“you”)
-              and Rackup IT Solution (“we,” “us” or “our”), concerning your
+              and Forte Harbor (“we,” “us” or “our”), concerning your
               access to and use of the website.
             </p>
 
